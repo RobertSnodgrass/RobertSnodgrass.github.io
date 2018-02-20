@@ -12,3 +12,5 @@ github_username:  RobertSnodgrass
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-midnight
